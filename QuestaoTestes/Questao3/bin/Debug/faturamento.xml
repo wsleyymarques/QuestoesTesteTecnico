@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<faturamentoMensal>
+    <faturamento>
+        <dia data="01" valor="200.50"/>
+        <dia data="02" valor="150.75"/>
+        <dia data="03" valor="300.00"/>
+        <dia data="04" valor="0.00"/>
+        <dia data="05" valor="250.60"/>
+        <dia data="06" valor="180.00"/>
+        <dia data="07" valor="0.00"/>
+        <dia data="08" valor="220.10"/>
+        <dia data="09" valor="350.00"/>
+        <dia data="10" valor="280.40"/>
+        <dia data="11" valor="320.00"/>
+        <dia data="12" valor="500.00"/>
+        <dia data="13" valor="280.00"/>
+        <dia data="14" valor="310.00"/>
+        <dia data="15" valor="330.00"/>
+        <dia data="16" valor="240.00"/>
+        <dia data="17" valor="300.00"/>
+        <dia data="18" valor="220.00"/>
+        <dia data="19" valor="270.00"/>
+        <dia data="20" valor="290.00"/>
+        <dia data="21" valor="310.00"/>
+        <dia data="22" valor="340.00"/>
+        <dia data="23" valor="310.00"/>
+        <dia data="24" valor="220.00"/>
+        <dia data="25" valor="300.00"/>
+        <dia data="26" valor="330.00"/>
+        <dia data="27" valor="350.00"/>
+        <dia data="28" valor="380.00"/>
+        <dia data="29" valor="320.00"/>
+        <dia data="30" valor="280.00"/>
+        <dia data="31" valor="340.00"/>
+    </faturamento>
+</faturamentoMensal>

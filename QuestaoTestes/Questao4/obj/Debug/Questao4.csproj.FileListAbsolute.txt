@@ -1,0 +1,7 @@
+C:\Users\wesle\OneDrive\Documentos\CURSO C# COM LOGICA DE PROGAMAÇAO UDEMY\QuestaoTestes\Questao4\bin\Debug\Questao4.exe.config
+C:\Users\wesle\OneDrive\Documentos\CURSO C# COM LOGICA DE PROGAMAÇAO UDEMY\QuestaoTestes\Questao4\bin\Debug\Questao4.exe
+C:\Users\wesle\OneDrive\Documentos\CURSO C# COM LOGICA DE PROGAMAÇAO UDEMY\QuestaoTestes\Questao4\bin\Debug\Questao4.pdb
+C:\Users\wesle\OneDrive\Documentos\CURSO C# COM LOGICA DE PROGAMAÇAO UDEMY\QuestaoTestes\Questao4\obj\Debug\Questao4.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\CURSO C# COM LOGICA DE PROGAMAÇAO UDEMY\QuestaoTestes\Questao4\obj\Debug\Questao4.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\CURSO C# COM LOGICA DE PROGAMAÇAO UDEMY\QuestaoTestes\Questao4\obj\Debug\Questao4.exe
+C:\Users\wesle\OneDrive\Documentos\CURSO C# COM LOGICA DE PROGAMAÇAO UDEMY\QuestaoTestes\Questao4\obj\Debug\Questao4.pdb
